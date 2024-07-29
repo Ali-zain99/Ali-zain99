@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ali zain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali zain" height="30" width="40" /></a>
 <a href="https://kaggle.com/ali zain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ali zain" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/computer programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="computer programmer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@alizain8575" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="computer programmer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ali zain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ali zain" height="30" width="40" /></a>
 </p>
 
